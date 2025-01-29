@@ -17,37 +17,37 @@
 
 ## Process walkthrough
 * Installed VirtualBox and created Kali Linux VM:
-![vbox](https://github.com/nivethasureshkannan/cybersecurity_projects/blob/main/1.SIEM/assets_1/SIEM_1_vb.png?raw=true)
+![vbox](https://github.com/nivethasureshkannan/cybersecurity_projects_/blob/main/1.SIEM/assets_1/SIEM_1_vb.png?raw=true)
 
 *Installed and configured Elastic SIEM for log collection in my kali linux VM.
-![elastic_siem](https://github.com/nivethasureshkannan/cybersecurity_projects/blob/main/1.SIEM/assets_1/SIEM_1_1.png?raw=true)
+![elastic_siem](https://github.com/nivethasureshkannan/cybersecurity_projects_/blob/main/1.SIEM/assets_1/SIEM_1_1.png?raw=true)
 
-![elastic_siem](https://github.com/nivethasureshkannan/cybersecurity_projects/blob/main/1.SIEM/assets_1/SIEM_1_2.png?raw=true)
+![elastic_siem](https://github.com/nivethasureshkannan/cybersecurity_projects_/blob/main/1.SIEM/assets_1/SIEM_1_2.png?raw=true)
 
-![elastic_siem](https://github.com/nivethasureshkannan/cybersecurity_projects/blob/main/1.SIEM/assets_1/SIEM_1_3.png?raw=true)
+![elastic_siem](https://github.com/nivethasureshkannan/cybersecurity_projects_/blob/main/1.SIEM/assets_1/SIEM_1_3.png?raw=true)
 
-![elastic_siem](https://github.com/nivethasureshkannan/cybersecurity_projects/blob/main/1.SIEM/assets_1/SIEM_1_4.png?raw=true)
+![elastic_siem](https://github.com/nivethasureshkannan/cybersecurity_projects_/blob/main/1.SIEM/assets_1/SIEM_1_4.png?raw=true)
 
-![elastic_siem](https://github.com/nivethasureshkannan/cybersecurity_projects/blob/main/1.SIEM/assets_1/SIEM_1_5.png?raw=true)
+![elastic_siem](https://github.com/nivethasureshkannan/cybersecurity_projects_/blob/main/1.SIEM/assets_1/SIEM_1_5.png?raw=true)
 
-![elastic_siem](https://github.com/nivethasureshkannan/cybersecurity_projects/blob/main/1.SIEM/assets_1/SIEM_1_6.png?raw=true)
+![elastic_siem](https://github.com/nivethasureshkannan/cybersecurity_projects_/blob/main/1.SIEM/assets_1/SIEM_1_6.png?raw=true)
 
-![elastic_siem](https://github.com/nivethasureshkannan/cybersecurity_projects/blob/main/1.SIEM/assets_1/SIEM_1_7.png?raw=true)
+![elastic_siem](https://github.com/nivethasureshkannan/cybersecurity_projects_/blob/main/1.SIEM/assets_1/SIEM_1_7.png?raw=true)
 
 * Performed some basic  Nmap scan to generate logs
-![elastic_siem](https://github.com/nivethasureshkannan/cybersecurity_projects/blob/main/1.SIEM/assets_1/SIEM_1_8.png?raw=true)
+![elastic_siem](https://github.com/nivethasureshkannan/cybersecurity_projects_/blob/main/1.SIEM/assets_1/SIEM_1_8.png?raw=true)
 
 * Created Alerts & Configured Email Notifications if any nmap scans are take place
-![elastic_siem](https://github.com/nivethasureshkannan/cybersecurity_projects/blob/main/1.SIEM/assets_1/SIEM_1_rule.png?raw=true)
+![elastic_siem](https://github.com/nivethasureshkannan/cybersecurity_projects_/blob/main/1.SIEM/assets_1/SIEM_1_rule.png?raw=true)
 
 * Then again ran some nmap scans and monitored the logs
-![elastic_siem](https://github.com/nivethasureshkannan/cybersecurity_projects/blob/main/1.SIEM/assets_1/SIEM_1_9.png?raw=true)
+![elastic_siem](https://github.com/nivethasureshkannan/cybersecurity_projects_/blob/main/1.SIEM/assets_1/SIEM_1_9.png?raw=true)
 
 * But this time it has been alerted
-![elastic_siem](https://github.com/nivethasureshkannan/cybersecurity_projects/blob/main/1.SIEM/assets_1/SIEM_1_10.png?raw=true)
+![elastic_siem](https://github.com/nivethasureshkannan/cybersecurity_projects_/blob/main/1.SIEM/assets_1/SIEM_1_10.png?raw=true)
 
 * And an email has been sent successfully to the configured mail id.
-![elastic_siem](https://github.com/nivethasureshkannan/cybersecurity_projects/blob/main/1.SIEM/assets_1/SIEM_1_11.png?raw=true)
+![elastic_siem](https://github.com/nivethasureshkannan/cybersecurity_projects_/blob/main/1.SIEM/assets_1/SIEM_1_11.png?raw=true)
 
 * A custom dashboard has been created to show the count of events in a host with respect to time.
 ![elastic_siem](https://github.com/nivethasureshkannan/cybersecurity_projects/blob/main/1.SIEM/assets_1/SIEM_1_12.png?raw=true)
