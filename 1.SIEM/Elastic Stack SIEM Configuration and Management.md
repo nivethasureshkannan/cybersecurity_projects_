@@ -50,7 +50,7 @@
 ![elastic_siem](https://github.com/nivethasureshkannan/cybersecurity_projects_/blob/main/1.SIEM/assets_1/SIEM_1_11.png?raw=true)
 
 * A custom dashboard has been created to show the count of events in a host with respect to time.
-![elastic_siem](https://github.com/nivethasureshkannan/cybersecurity_projects/blob/main/1.SIEM/assets_1/SIEM_1_12.png?raw=true)
+![elastic_siem](https://github.com/nivethasureshkannan/cybersecurity_projects_/blob/main/1.SIEM/assets_1/SIEM_1_12.png?raw=true)
 
 ---
 > Thank you so much for your time.
