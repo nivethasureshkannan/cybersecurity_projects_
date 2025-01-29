@@ -2,54 +2,13 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+# Professional Statement
 
-[Link to another page](./another-page.html).
+I’m Nivetha Sureshkannan, currently pursuing my M.Tech in Cybersecurity Systems and Networks , after completing my Bachelor’s in Computer Science. During my one-year apprenticeship as a SOC Analyst at the Hindustan Petroleum Corporation Limited (HPCL) Data Center in Hyderabad, I had the chance to learn from real-world experiences, working with tools like ArcSight SIEM, HCL AppScan, and Trend Micro Deep Discovery Analyzer. I was involved in monitoring security events, assisting with vulnerability assessments, and supporting network security operations, which helped me grow professionally.
 
-There should be whitespace between paragraphs.
+I’ve also tried to expand my skills by taking courses in Python, data science, and SQL. Outside of academics, I served as the Director of District Priority Projects in Texcity Rotaract, where I had the privilege of working with a dedicated team to contribute to various community projects.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
+My goal is to have a wide range of knowledge as a generalist with the specialized skills of a red teamer. I’m currently preparing for the `Hack The Box Certified Penetration Tester (HTB CPTS) certification` to strengthen my expertise in offensive security and take the next step in my cybersecurity journey.
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
@@ -58,66 +17,22 @@ end
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+### Tools 
+Several tools that I used: 
+* Wireshark
+* Burp Suite
+* FTK imager
+* Git and Github
+* Linux OS
+* SQL
+* elastic
+* ArcSight SIEM
+* HCL AppScan
+* Tenable
+* InterScan Messaging Security Virtual Appliance (IMSVA)
+* Trend Micro Deep Discovery Analyzer
+* Python 
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
 
-```
-The final element.
 ```
