@@ -14,7 +14,7 @@ My goal is to have a wide range of knowledge as a generalist with the specialize
 
 | S.NO        | Projects          | Skills and knowledge gained |
 |:-------------|:------------------|:------|
-| 1           | [SIEM](https://github.com/nivethasureshkannan/cybersecurity_projects_/blob/9c8b138aef54744f89d3adb20f468166c8b1fc75/1.SIEM/Elastic%20Stack%20SIEM%20Configuration%20and%20Management.md) | `Log analysis and monitoring` , `Configuring SIEM and setting alerts` ,`Elastic Stack (SIEM)`  |
+| 1           | [SIEM](https://github.com/nivethasureshkannan/cybersecurity_projects_/blob/4804177cb92355b77e55f9f882ae64bee5f7b5f9/1.SIEM/Elastic%20Stack%20SIEM%20Configuration%20and%20Management.md) | `Log analysis and monitoring` , `Configuring SIEM and setting alerts` ,`Elastic Stack (SIEM)`  |
 |  |    |   |
 
 
